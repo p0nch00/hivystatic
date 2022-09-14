@@ -3,7 +3,7 @@
 	{
 		"eth":"eth",
 		"flux":"125_4"
-	}
+	},
 "octemplates":
 	{
 		"GeForce RTX 3070_eth":{"core":"1100","mem":"2500","pl":"130","fan":"0"},
